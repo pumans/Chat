@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="loginButton_name">Login</string>
+    <string name="loginName_name">Логин</string>
+    <string name="loginPass_name">Пароль</string>
+    <string name="mainActivity_name">Введите логин и пароль</string>
+
+    <string name="login_name">Загрузка</string>
+    <string name="serverURL">https://chat.momentfor.fun</string>
+
+
+</resources>
